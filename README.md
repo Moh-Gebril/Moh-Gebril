@@ -1,4 +1,4 @@
-# Cybersecurity Engineer | Cryptography Expert | DevOps & Python Developer
+# Software Developer | Cybersecurity Engineer | Cryptography Expert & DevOps 
 
 With over 5 years of experience in **crypto engineering** and **cybersecurity**, I have developed a deep technical skill set and practical expertise in safeguarding digital systems. My work ranges from **cryptography** and **system hardening** to **penetration testing**, ensuring that applications and networks are secure, scalable, and resilient.
 
