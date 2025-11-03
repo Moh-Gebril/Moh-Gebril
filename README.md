@@ -23,6 +23,7 @@
 
 ### 🔥 What Sets Me Apart
 I operate at the intersection of **software architecture**, **cybersecurity engineering**, and **applied cryptography**.  
+
 Most specialists focus on one of these domains — I specialize in the **intersection where they meet**:
 - Security-by-Design & secure systems architecture  
 - Cryptographic correctness & protocol implementation  
