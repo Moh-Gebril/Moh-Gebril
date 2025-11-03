@@ -17,9 +17,6 @@
   <a href="https://medium.com/@moh.ahmed.gebril">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="mailto:">
-    <img alt="Contact" src="https://img.shields.io/badge/Contact-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </p>
 
 ---
@@ -110,8 +107,6 @@ If you’re an engineer or team looking to mature your security practice, feel f
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moh-Gebril&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
 </p>
-
-> These visuals are intentionally minimal and monochrome-aligned to maintain a **professional, senior** aesthetic.
 
 ---
 
